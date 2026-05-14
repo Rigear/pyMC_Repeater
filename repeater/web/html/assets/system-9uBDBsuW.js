@@ -1,0 +1,1 @@
+import{t as e}from"./system-eurEQN-G.js";export{e as useSystemStore};
